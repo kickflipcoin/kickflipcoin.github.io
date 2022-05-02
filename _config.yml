@@ -102,18 +102,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : # "Your Name"
+  avatar           : "https://avatars.githubusercontent.com/u/103463424?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Thsi project aims to bring sk8 community together and eat the world."
+  location         : # "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:kickflipcoin@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://kickflipcoin.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/kickflipcoin/kickflipcoin.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
